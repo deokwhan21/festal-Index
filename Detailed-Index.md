@@ -8,7 +8,7 @@
 
 | Index | 연도(AD) | 로마 집정관 (Consuls) | 이집트 총독 (Prefects) | 주요 사건 및 주석 |
 | :--- | :---: | :--- | :--- | :--- |
-| **I** | 329 | Constantine Aug. VIII, Constantine Caes. [cite_start]IV [cite: 154] | [cite_start]Zenius the Italian [cite: 153] | [cite_start]첫 부활절 서신 발송. [cite: 162] |
+| **I** | 329 | Constantine Aug. VIII, Constantine Caes. IV [cite: 154] | [cite_start]Zenius the Italian [cite: 153] | [cite_start]첫 부활절 서신 발송. [cite: 162] |
 | **II** | 330 | [cite_start]Gallicanus, Symmachus [cite: 165] | [cite_start]Magnilianus the Cappadocian [cite: 165] | [cite_start]테바이드(Thebaid) 지역 순회. [cite: 166] |
 | **III** | 331 | [cite_start]Junius Bassus, Ablabius [cite: 167] | [cite_start]Hyginus the Italian [cite: 168] | [cite_start]황제 궁정 소환 후 귀환 중 서신 발송. [cite: 169-170] |
 | **IV** | 332 | [cite_start]Pacatianus, Hilarianus [cite: 171] | [cite_start]Hyginus [cite: 171] | [cite_start]펜타폴리스 및 암모니아카 순회. [cite: 172] |
@@ -31,5 +31,4 @@
 | **XLV** | 373 | [cite_start]Valentinian IV, Valens IV [cite: 391] | [cite_start]Aelius Palladius [cite: 391] | [cite_start]5월 2일 아타나시우스 선종. [cite: 392-393] |
 
 ---
-[cite_start]*본 데이터는 Festal Index (247-271페이지) 문헌을 근거로 작성되었습니다.* [cite: 143]
-
+*본 데이터는 Festal Index (247-271페이지) 문헌을 근거로 작성되었습니다.*
