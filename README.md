@@ -1,66 +1,101 @@
-# 🏛️ 아타나시우스 부활절 색인 (Festal Index) 프로젝트
+# 🏛️ 아타나시우스 부활절 색인 (Festal Index) 전체 연표 (AD 329-373)
 
-이 저장소는 4세기 알렉산드리아의 주교 아타나시우스(Athanasius)의 부활절 서신 발송 기록과 당시 이집트의 정치적/교회사적 사건을 정리한 디지털 아카이브입니다. [cite: 1, 8]
-
----
-
-### 📌 프로젝트 개요
-* [cite_start]**사료적 가치**: 아타나시우스의 활동과 4세기 이집트의 행정 및 역법을 이해하는 데 핵심적인 가치를 지닌 문헌입니다. [cite: 8]
-* [cite_start]**언어 및 전승**: 원래 그리스어로 작성되었으나 현재는 시리아어 필사본으로 보존되어 있습니다. [cite: 3]
-* [cite_start]**핵심 기록**: 매년 부활절 날짜, 로마 집정관, 이집트 총독 명단 및 주요 사건 요약. [cite: 5, 6]
+이 문서는 알렉산드리아의 주교 아타나시우스의 재임 기간 동안의 부활절 서신 발송 기록과 주요 역사적 사건을 정리한 색인(Index) 전문입니다.
 
 ---
 
-### 📅 아타나시우스 재임 및 유배 타임라인
-이 차트는 아타나시우스의 주요 행적과 5차례의 유배를 시각적으로 보여줍니다.
+## 📅 초기 재임 및 순회 (AD 329 - 335)
 
-```mermaid
-timeline
-    title 아타나시우스의 생애와 유배 (AD 328 - 373)
-    [cite_start]328 : 주교 취임 (6월 8일) : 알렉산데르 사후 승계 [cite: 152]
-    [cite_start]335 : 1차 유배 (트리어) : 티레 공의회 이후 [cite: 195]
-    [cite_start]339 : 2차 유배 (로마) : 테오나스 교회 탈출 [cite: 209]
-    [cite_start]346 : 2차 복귀 (10월 21일) : 개선 입성 [cite: 250]
-    [cite_start]356 : 3차 유배 (은둔) : 시리아누스의 습격 [cite: 299]
-    [cite_start]362 : 4차 유배 (테바이드) : 율리아누스 박해 [cite: 335]
-    [cite_start]365 : 5차 유배 (도신) : 발렌스 황제 압박 [cite: 349]
-    [cite_start]373 : 선종 (5월 2일) : 사역의 마침 [cite: 392]
-
-📚 상세 연구 자료 탐색
-📑 상세 데이터 (Index I-XLV) 확인하기 https://www.google.com/search?q=Detailed-Index.md
-
-포함 내용: 모든 연도별 로마 집정관 및 이집트 총독 명단 상세 기록.
-
-활용 팁: 박사 논문 작성 시 특정 연도의 정치적 배경을 빠르게 검색(Ctrl+F)할 수 있습니다.
-
-출처 정보: 본 자료는 아타나시우스 부활절 서신 색인(The Festal Index) 문헌을 바탕으로 정리되었습니다.
-
-### 2. `Detailed-Index.md` 전체 코드
-이 코드를 복사하여 `Detailed-Index.md` 파일의 **기존 내용을 모두 지운 뒤** 붙여넣으세요. 불필요한 태그를 모두 제거하여 표가 깔끔하게 보이도록 했습니다.
-
-```markdown
-# 📑 부활절 색인 상세 데이터 (Index I-XLV)
-
-[cite_start]이 문서는 아타나시우스의 재임 기간(AD 328-373) 동안의 정치적 배경과 교회적 사건을 색인별로 상세히 기록한 연구 자료입니다. [cite: 1, 8]
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **I** | 329 | [cite_start]주교 취임 후 첫 서신 발송[cite: 154]. | 발송 |
+| **II** | 330 | [cite_start]테바이드(Thebaid) 지역 순회 [cite: 164-166]. | 발송 |
+| **III** | 331 | [cite_start]콘스탄티누스 황제 궁정 소환 및 무죄 판결 후 귀환 [cite: 167-170]. | 발송 |
+| **IV** | 332 | [cite_start]펜타폴리스(Pentapolis) 및 암모니아카 순회 [cite: 171-172]. | 발송 |
+| **V** | 333 | [cite_start]부활절 날짜 계산 조정 (14일 → 15일) [cite: 178, 186-187]. | 발송 |
+| **VI** | 334 | 이집트 하부 지역 여행. [cite_start]가이사랴 공의회 소환 거절 [cite: 179-181]. | 발송 |
+| **VII** | 335 | [cite_start]부활절 행사 거행[cite: 182]. | 발송 |
 
 ---
 
-## 🏛️ 연도별 집정관 및 총독 명단 상세
+## ⚓ 제1차 유배 및 복귀 (AD 336 - 338)
 
-| Index | 연도(AD) | 로마 집정관 (Consuls) | 이집트 총독 (Prefects) | 주요 사건 및 주석 |
-| :--- | :---: | :--- | :--- | :--- |
-| **I** | 329 | Constantine Aug. VIII, Constantine Caes. [cite_start]IV [cite: 154] | [cite_start]Zenius the Italian [cite: 153] | [cite_start]첫 부활절 서신 발송 [cite: 162] |
-| **II** | 330 | [cite_start]Gallicanus, Symmachus [cite: 165] | [cite_start]Magnilianus the Cappadocian [cite: 165] | [cite_start]테바이드(Thebaid) 지역 순회 [cite: 166] |
-| **III** | 331 | [cite_start]Junius Bassus, Ablabius [cite: 167] | [cite_start]Hyginus the Italian [cite: 168] | [cite_start]황제 궁정 소환 후 귀환 중 서신 발송 [cite: 169-170] |
-| **IV** | 332 | [cite_start]Pacatianus, Hilarianus [cite: 171] | [cite_start]Hyginus [cite: 171] | [cite_start]펜타폴리스 및 암모니아카 순회 [cite: 172] |
-| **VI** | 334 | [cite_start]Optatus, Paulinus [cite: 179] | [cite_start]Paterius [cite: 179] | [cite_start]이집트 하부 순회 및 공의회 소환 거절 [cite: 180-181] |
-| **VIII** | 336 | [cite_start]Nepotianus, Facundus [cite: 183] | [cite_start]Philagrius the Cappadocian [cite: 183] | [cite_start]**1차 유배**: 티레 공의회 이후 트리어행 [cite: 184-195] |
-| **X** | 338 | [cite_start]Ursus, Polemius [cite: 199] | [cite_start]Theodorus of Heliopolis [cite: 199] | [cite_start]**복귀**: 개선 입성 및 성 안토니우스 방문 [cite: 200-201] |
-| **XI** | 339 | [cite_start]Constantius II, Constans I [cite: 203] | [cite_start]Philagrius [cite: 203] | [cite_start]**2차 유배**: 테오나스 교회 탈출 [cite: 209-210] |
-| **XV** | 343 | [cite_start]Placidus, Romulus [cite: 229-230] | [cite_start]Longinus of Nicaea [cite: 230] | [cite_start]**세르디카 공의회**: 부활절 합의 [cite: 231-232] |
-| **XVIII** | 346 | [cite_start]Constantius IV, Constans III [cite: 248] | [cite_start]Nestorius of Gaza [cite: 248] | [cite_start]**복귀**: 10월 21일 개선 입성 [cite: 249-250] |
-| **XXXIX** | 367 | [cite_start]Lupicinus, Jovinus [cite: 364] | [cite_start]Proclianus / Tatianus [cite: 364] | [cite_start]**성경 정전(Canon) 확립** 서신 발송 [cite: 366] |
-| **XLV** | 373 | [cite_start]Valentinian IV, Valens IV [cite: 391] | [cite_start]Aelius Palladius [cite: 391] | [cite_start]5월 2일 아타나시우스 선종 [cite: 392-393] |
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **VIII** | 336 | [cite_start]티레 공의회 참석 후 도주, 갈리아 트리어(Trier)로 유배 [cite: 183-195]. | **미발송** |
+| **IX** | 337 | 트리어 유배 중. [cite_start]콘스탄티누스 황제 사망 [cite: 196-198]. | **미발송** |
+| **X** | 338 | 11월 23일 복귀. [cite_start]성 안토니우스 알렉산드리아 방문 및 치유 사역 [cite: 199-202]. | 발송 |
 
 ---
-*본 데이터는 아타나시우스 부활절 서신 색인(The Festal Index) 문헌을 근거로 작성되었습니다.*
+
+## 🏛️ 제2차 유배 및 세르디카 공의회 (AD 339 - 346)
+
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **XI** | 339 | 테오나스 교회 탈출 후 로마행. [cite_start]그레고리우스 입성 [cite: 203-210]. | 발송 |
+| **XII** | 340 | 그레고리우스의 압박. [cite_start]아리우스파의 부활절 날짜 오류 조롱 [cite: 211-213]. | **미발송** |
+| **XIII** | 341 | 아우구스탐니카 분리. [cite_start]그레고리우스 발병 [cite: 214-225]. | **미발송** |
+| **XIV** | 342 | [cite_start]그레고리우스의 중병으로 서신 발송 불가 [cite: 226-228]. | **미발송** |
+| **XV** | 343 | 세르디카 공의회. [cite_start]부활절 날짜 통일을 위한 50년 주기 합의 [cite: 229-232]. | 발송 |
+| **XVI** | 344 | [cite_start]나이수스(Naissus)에서 부활절 거행 [cite: 243-245]. | 발송 |
+| **XVII** | 345 | [cite_start]아퀼레이아(Aquileia)에서 부활절 거행 [cite: 246-247]. | 발송 |
+| **XVIII** | 346 | 그레고리우스 사망(6월 26일). [cite_start]10월 21일 알렉산드리아 개선 [cite: 248-250]. | 발송 |
+
+---
+
+## 🕊️ 안정기 및 박해의 재개 (AD 347 - 355)
+
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **XIX** | 347 | [cite_start]알렉산드리아 체류 중 서신 발송 [cite: 258-260]. | 발송 |
+| **XX** | 348 | [cite_start]알렉산드리아 체류 중 서신 발송 [cite: 261-262]. | 발송 |
+| **XXI** | 349 | [cite_start]로마 교회와 날짜 조정을 위해 알렉산드리아 계산법 포기 [cite: 263-265, 270]. | 발송 |
+| **XXII** | 350 | 콘스탄스 황제 사망. [cite_start]콘스탄티우스 황제의 안심 서신 [cite: 266-275]. | 발송 |
+| **XXIII** | 351 | [cite_start]알렉산드리아 체류 중 서신 발송 [cite: 276-277]. | 발송 |
+| **XXIV** | 352 | [cite_start]갈루스(Gallus) 가이사 선포 [cite: 278-280]. | 발송 |
+| **XXV** | 353 | 세라피온 주교 등의 황제 파견. [cite_start]몬타누스의 체포 시도 실패 [cite: 281-285]. | 발송 |
+| **XXVI** | 354 | [cite_start]알렉산드리아 체류 중 서신 발송 [cite: 291-292]. | 발송 |
+| **XXVII** | 355 | [cite_start]비서 디오게네스의 체포 시도 실패 [cite: 293-296]. | 발송 |
+
+---
+
+## 🏜️ 제3차 유배 및 은둔 (AD 356 - 361)
+
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **XXVIII** | 356 | 시리아누스 장군의 테오나스 교회 습격(2월 8일). [cite_start]기적적 탈출 [cite: 297-299]. | 발송 |
+| **XXIX** | 357 | 조지(George) 주교 입성. [cite_start]폭력적 통치 시작 [cite: 300-303]. | **미발송** |
+| **XXX** | 358 | 아타나시우스 은둔 중. [cite_start]조지 주교가 군중에 의해 쫓겨남 [cite: 310-312]. | **미발송** |
+| **XXXI** | 359 | [cite_start]은둔 지속 [cite: 313-314]. | **미발송** |
+| **XXXII** | 360 | [cite_start]아르테미우스의 수색과 동정녀 에우데모니스 고문 [cite: 315-317]. | **미발송** |
+| **XXXIII** | 361 | 콘스탄티우스 황제 사망. [cite_start]율리아누스 즉위 및 사면령 [cite: 325-329]. | **미발송** |
+
+---
+
+## ⚔️ 율리아누스와 요비아누스 시기 (AD 362 - 364)
+
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **XXXIV** | 362 | 2월 복귀. [cite_start]율리아누스 황제에 의해 다시 유배 [cite: 330-333]. | 발송 |
+| **XXXV** | 363 | 테바이드 도주. [cite_start]율리아누스 사망 후 요비아누스 황제 접견 [cite: 334-345]. | 발송 |
+| **XXXVI** | 364 | 2월 14일 알렉산드리아 복귀. [cite_start]안티오크에서 서신 발송 [cite: 346-347]. | 발송 |
+
+---
+
+## 🌊 말년의 시련과 교회 재건 (AD 365 - 373)
+
+| Index | 연도 (AD) | 주요 사건 및 행적 | 서신 발송 |
+| :--- | :---: | :--- | :---: |
+| **XXXVII** | 365 | 발렌스 황제의 압박. [cite_start]7월 21일 지진 및 쓰나미 발생 [cite: 348-352]. | 발송 |
+| **XXXVIII** | 366 | [cite_start]이교도 폭동으로 카이사리온 교회 소실 [cite: 362-363]. | 발송 |
+| **XXXIX** | 367 | 루키우스의 침입 격퇴. [cite_start]**성경 정전(Canon) 확립** 서신 발송 [cite: 364-366]. | 발송 |
+| **XL** | 368 | [cite_start]5월 1일 카이사리온 교회 재건 시작 [cite: 367-369]. | 발송 |
+| **XLI** | 369 | [cite_start]9월 22일 멘디디온(Mendidion) 교회 건설 시작 [cite: 380-381]. | 발송 |
+| **XLII** | 370 | [cite_start]8월 7일 자신의 이름을 딴 교회 봉헌 및 축제 [cite: 382-384]. | 발송 |
+| **XLIII** | 371 | [cite_start]알리우스 팔라디우스(이발사) 총독 임명[cite: 385]. | 발송 |
+| **XLIV** | 372 | [cite_start]알리우스 팔라디우스 재임 중 부활절 거행[cite: 387]. | 발송 |
+| **XLV** | 373 | [cite_start]5월 2일(이집트력 7일 Pachon) 아타나시우스 선종 [cite: 388-393]. | - |
+
+---
+
+> [cite_start]**참고:** 이 데이터는 `06_Festal_Index` PDF의 247-271페이지 내용을 바탕으로 추출되었습니다 [cite: 143-395].
